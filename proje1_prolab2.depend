@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1489697672 source:c:\users\murat_karakoc\desktop\univercity\2.sýnýf\2.dönem\dersler\prolab\proje1\proje1_prolab2\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<locale.h>
+	<string.h>
+	<allegro.h>
+
+1526402797 source:d:\univercity\2.sinif\2.dönem\dersler\prolab\proje1\proje1_prolab2\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<locale.h>
+	<string.h>
+	<allegro.h>
+
